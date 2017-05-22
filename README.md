@@ -9,14 +9,14 @@ The data is published in two main sets: training data and test data, contained i
 
 The first step of the code downloads and reads the following relevant data files.
 
-X_train.txt 
-X_test.txt
-y_train.txt
-y_test.txt
-features.txt
-subject_train.txt
-subject_test.txt
-activity_labels.txt
+* X_train.txt 
+* X_test.txt
+* y_train.txt
+* y_test.txt
+* features.txt
+* subject_train.txt
+* subject_test.txt
+* activity_labels.txt
 
 ### #2: Clean field names to remove unwanted characters and duplicates
 
